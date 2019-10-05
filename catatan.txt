@@ -1,0 +1,14 @@
+NB:
+### macam-macam test case
+    1. positive test case
+        yaitu mengetes API dengan mindset consumer(fe/android) yg taat pada standar 
+
+    2. negative test case
+        yaitu mengetes API dengan mindset user yg tidak sesuai standar
+        contoh nya: salah satu atau beberapa column request di hilangkan / disalahkan / dikosongkan, 
+        value nya tidak sesuai dengan standar
+    3. random test case
+
+untuk asertation chai see doc https://www.chaijs.com/api/bdd/
+
+more info https://medium.com/skyshidigital/perbedaan-manual-testing-dan-automated-testing-9d13373a36e
